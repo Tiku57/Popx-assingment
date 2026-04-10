@@ -3,7 +3,9 @@
 This repository contains the frontend code for the **PopX** mobile web application. It was developed as a qualifier task for the ReactJS Development Internship at Educase India.
 
 ## 🚀 Live Demo
-**[Insert your live hosted link here (e.g., Vercel or Netlify)]**
+```
+https://popx-assingment-six.vercel.app/
+```
 
 ## 📖 Project Overview
 The objective of this project was to convert an Adobe XD design into a pixel-perfect, fully functional frontend interface using React JS. The application features a mobile-first design centered on the webpage with seamless navigation between multiple screens.
