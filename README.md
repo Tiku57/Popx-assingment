@@ -49,4 +49,5 @@ Open your browser and visit http://localhost:5173
 ## 👨‍💻 Author
 
 Aaditya Sattawan
+
 GitHub: @Tiku57
