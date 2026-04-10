@@ -1,16 +1,53 @@
-# React + Vite
+# PopX - ReactJS UI Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the frontend code for the **PopX** mobile web application. It was developed as a qualifier task for the ReactJS Development Internship at Educase India.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[Insert your live hosted link here (e.g., Vercel or Netlify)]**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 Project Overview
+The objective of this project was to convert an Adobe XD design into a pixel-perfect, fully functional frontend interface using React JS. The application features a mobile-first design centered on the webpage with seamless navigation between multiple screens.
 
-## React Compiler
+### 🎯 Key Features
+* **Pixel-Perfect UI:** Accurately translates the provided design mockups into code.
+* **Mobile-Centered Layout:** The application container is optimized for mobile dimensions while remaining perfectly centered on larger desktop screens.
+* **Seamless Routing:** Implemented client-side routing using React Router for smooth, instant transitions between the Welcome, Login, Register, and Profile pages.
+* **Modern Styling:** Utilized Tailwind CSS to ensure clean, maintainable, and responsive styling.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
+* **React JS (Vite)** - Fast frontend tooling and component-based UI development.
+* **Tailwind CSS (v3.4.17)** - Utility-first CSS framework for rapid UI styling.
+* **React Router DOM** - For declarative routing and page navigation.
 
-## Expanding the ESLint configuration
+## 💻 Local Setup & Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/Tiku57/Popx-assingment.git
+```
+### 2. Navigate to the project directory:
+```
+cd Popx-assingment
+```
+
+### 3. Install the dependencies:
+```
+npm install
+```
+
+### 4. Start the development server:
+```
+npm run dev
+```
+
+### 5. View the app:
+
+Open your browser and visit http://localhost:5173
+
+## 👨‍💻 Author
+
+Aaditya Sattawan
+
+GitHub: @Tiku57
